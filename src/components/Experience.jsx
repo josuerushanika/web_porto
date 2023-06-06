@@ -25,7 +25,7 @@ const Experience = () => {
                         <div className="space-y-4 experience-1">
                             <div className="bg-gray-800 text-white shadow-lg rounded-lg overflow-hidden">
                                 <div className="px-4 py-5 sm:p-6">
-                                    <h3 className="text-lg font-medium">Self employed <span className="text-coding-color">Full Stack Developer</span></h3>
+                                    <h3 className="text-lg font-medium"> Freelancer <span className="text-coding-color">Full Stack Developer</span></h3>
                                     <p className="mt-1  text-sm">August 2021 - Present</p>
                                     <ul className="list-disc list-inside mt-3  text-base list-exp md:text-base/8">
                                         <li>Developed custom web solutions using a variety of programming languages and frameworks</li>
