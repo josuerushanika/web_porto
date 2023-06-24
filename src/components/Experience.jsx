@@ -25,7 +25,7 @@ const Experience = () => {
                         <div className="space-y-4 experience-1">
                             <div className="bg-gray-800 text-white shadow-lg rounded-lg overflow-hidden">
                                 <div className="px-4 py-5 sm:p-6">
-                                    <h3 className="text-lg font-medium"> Freelancer <span className="text-coding-color">Full Stack Developer</span></h3>
+                                    <h3 className="text-lg font-medium"> <span className="text-coding-color">Full Stack Developer & Network Engineer</span></h3>
                                     <p className="mt-1  text-sm">August 2021 - Present</p>
                                     <ul className="list-disc list-inside mt-3  text-base list-exp md:text-base/8">
                                         <li>Developed custom web solutions using a variety of programming languages and frameworks</li>
@@ -33,7 +33,10 @@ const Experience = () => {
                                         <li>Fixed bugs and optimized website performance, resulting in faster loading times and better user experience.</li>
                                         <li>Integrated various API services, such as GitHub and others API, to display project details.</li>
                                         <li>Deployed and maintained websites on Netlify, ensuring high availability and fast loading times.</li>
-
+                                        <li> Managing servers windows 2012r2, 2016 and Lunix (DELL) Active Directory, DHCP,Firewall,
+VOIP(Server,ISSABEL server), and Print server.</li>
+                                        <li>Managing network devices Cisco routers,Mikrotik,TP-Link,D-Link, firewalls,Cisco switches and VPN
+connections with Public IP and Remote Conntection.</li>
                                     </ul>
                                 </div>
                             </div>

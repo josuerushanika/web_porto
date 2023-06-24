@@ -5,6 +5,10 @@ import spacePath from './Images/space_traveler.jpeg';
 import countDown from './Images/covid.jpg';
 import todo from './Images/to_do_list.png';
 import calculator from './Images/calc-app.gif';
+import geomap from './Images/geomap.jpg'
+import ccna from './Images/ccna.jpg'
+import gns3 from './Images/gns3.jpg'
+import cyber from './Images/cybersec.jpg'
 
 export const projects = [
   {
@@ -60,6 +64,38 @@ export const projects = [
     tags: ['HTML', 'Css ', 'JavaScript'],
     liveUrl: 'https://josuerushanika.github.io/to-do-list/dist/',
     sourceUrl: 'https://github.com/josuerushanika/to-do-list'
+  },
+
+
+  {
+    id: 7,
+    title: ' Geo_map_call_app ',
+    description: 'This is a React-based application that combines location-based features and real-time video chat functionality. The app allows users to explore and interact with a map, view locations of interest, and initiate video chat sessions with other users at specific locations.',
+    image: geomap,
+    tags: ['HTML', 'Css ', 'JavaScript'],
+    liveUrl: 'https://github.com/josuerushanika/Geo_map_call_app',
+    sourceUrl: 'https://github.com/josuerushanika/Geo_map_call_app'
+  },
+
+  {
+    id: 8,
+    title: ' CCNA ',
+    description: 'CCNA (Cisco Certified Network Associate) is a certification from Cisco, the world most famous company for manufacturing and selling networking equipment. ',
+    image: ccna,
+  },
+
+  {
+    id: 9,
+    title: ' GNS3 ',
+    description: 'Simulation of An enterprise network(In GNS3) consists of physical and virtual networks and protocols that serve the dual purpose of connecting all users and systems on a local area network (LAN) to applications in the data center and cloud as well as facilitating access to network data and analytics. ',
+    image: gns3,
+  },
+
+  {
+    id: 10,
+    title: ' Cyber ',
+    description: ' I am a Cybersecurity consultant Expert who advises on and implements measures to protect digital systems and data from security threats.',
+    image: cyber,
   },
 ];
 //skills 
