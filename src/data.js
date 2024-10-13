@@ -10,6 +10,7 @@ import ccna from './Images/ccna.jpg'
 import gns3 from './Images/gns3.jpg'
 import cyber from './Images/cybersec.jpg'
 import splunk from './Images/splunk.jpeg'
+import wazuh from './Images/wazuh.png'
 
 export const projects = [
   {
@@ -110,11 +111,11 @@ export const projects = [
 
   {
     id: 11,
-    title: ' Splunk',
-    description: 'I use Splunk  a powerful platform for searching, monitoring, and analyzing machine-generated data in real-time, helping organizations to gain insights, detect security threats, and improve operational efficiency ',
-    image: splunk,
-    liveUrl: 'https://github.com/josuerushanika/Splunk-Tools',
-    sourceUrl: 'https://www.splunk.com/'
+    title: 'Wazuh ',
+    description: 'I use Wazuhan open-source security platform that provides threat detection, visibility, compliance monitoring, and incident response through log analysis, intrusion detection, and vulnerability assessment ',
+    image: wazuh,
+    liveUrl: 'https://github.com/josuerushanika/wazuh',
+    sourceUrl: 'https://wazuh.com/'
   },
 ];
 //skills 
