@@ -1,5 +1,5 @@
 import React from "react";
-import path from "../Images/jojo.jpg";
+import path from "../Images/josue.jpg";
 import { BsFillPersonFill } from "react-icons/bs";
 
 function About() {
