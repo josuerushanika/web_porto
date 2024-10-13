@@ -66,15 +66,20 @@ const Experience = () => {
                           Conntection.
                         </li>
                         <p>
-                        Responsible for threat intelligence and cybersecurity, using Cisco Talos to identify and
-analyze threats. Management of firewalls and routers (Cisco Meraki, Sophos, Ubiquiti) as
-well as Windows Server 2022, Linux servers, O365, Azure, and Active Directory.
-Implementation and maintenance of intrusion detection and prevention systems
-(IDS/IPS), and management of virtualized environments with VM ESXi. Conducting
-penetration tests with Kali Linux on web applications, wireless networks, SQL injection,
-and APIs. Configuring of SIEM(Splunk Wazuh) and I@M. Participation in web
-development and network security, and implementation of IoT projects, such as GPS
-solutions, SQL Server database maintenance.
+                          Responsible for threat intelligence and cybersecurity,
+                          using Cisco Talos to identify and analyze threats.
+                          Management of firewalls and routers (Cisco Meraki,
+                          Sophos, Ubiquiti) as well as Windows Server 2022,
+                          Linux servers, O365, Azure, and Active Directory.
+                          Implementation and maintenance of intrusion detection
+                          and prevention systems (IDS/IPS), and management of
+                          virtualized environments with VM ESXi. Conducting
+                          penetration tests with Kali Linux on web applications,
+                          wireless networks, SQL injection, and APIs.
+                          Configuring of SIEM(Splunk Wazuh) and I@M.
+                          Participation in web development and network security,
+                          and implementation of IoT projects, such as GPS
+                          solutions, SQL Server database maintenance.
                         </p>
                       </ul>
                     </div>
@@ -121,6 +126,22 @@ solutions, SQL Server database maintenance.
                           Express) and Integration with PSTN network.
                         </li>
                         <li>Created websites with great designs</li>
+                        <li>
+                          Conducted vulnerability assessments and penetration
+                          testing. · Developed and implemented cybersecurity
+                          policies and procedures. · Managed and monitored
+                          network security infrastructure, and access control
+                          systems · Managing servers windows 2012r2, 2016 and
+                          Lunix (DELL) Active Directory, DHCP,Firewall ·
+                          Managing network devices Cisco
+                          routers,Mikrotik,TP-Link,D-Link, firewalls,Cisco
+                          switches and VPN connections with Public IP and Remote
+                          Conntection. · Collaborated with cross-functional
+                          teams to select security technologies. · Designed,
+                          developed, and maintained responsive websites.·
+                          Implemented custom web solutions and applications
+                          using HTML, CSS, JavaScript, React,SQL,Ruby on Rails.
+                        </li>
                       </ul>
                     </div>
                   </div>
