@@ -119,4 +119,4 @@ export const projects = [
   },
 ];
 //skills 
-export const skills = ['HTML', 'CSS', 'JavaScript', 'React', 'Ruby On Rails ', 'MySQL', 'Postgresql', 'WebPack', 'Redux', 'Jest','Rsepc', 'Git', 'GitHub','Windows server','Lunix','Networking'];
+export const skills = ['HTML', 'CSS', 'JavaScript', 'React', 'Ruby On Rails ', 'MySQL', 'Postgresql', 'WebPack', 'Redux', 'Jest','Rsepc', 'Git', 'GitHub','Windows server','Ubuntu Lunix', 'Kali Lunix','Networking','SEIM', 'End Point', 'Threat Intelligent'];
