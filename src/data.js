@@ -11,6 +11,7 @@ import gns3 from './Images/gns3.jpg'
 import cyber from './Images/cybersec.jpg'
 import splunk from './Images/splunk.jpeg'
 import wazuh from './Images/wazuh.png'
+import sophos from './Images/sophos.png'
 
 export const projects = [
   {
@@ -110,12 +111,30 @@ export const projects = [
   },
 
   {
-    id: 11,
+    id: 12,
     title: 'Wazuh ',
-    description: 'I use Wazuhan open-source security platform that provides threat detection, visibility, compliance monitoring, and incident response through log analysis, intrusion detection, and vulnerability assessment ',
+    description: 'I use Wazuh an open-source security platform that provides threat detection, visibility, compliance monitoring, and incident response through log analysis, intrusion detection, and vulnerability assessment ',
     image: wazuh,
     liveUrl: 'https://github.com/josuerushanika/wazuh',
     sourceUrl: 'https://wazuh.com/'
+  },
+
+  {
+    id: 13,
+    title: 'Sophos ',
+    description: 'I use Sophos  a cybersecurity solution that provides advanced threat protection, including firewall, antivirus, encryption, and endpoint security, to safeguard networks, devices, and data from cyber threats ',
+    image: sophos,
+    liveUrl: 'https://www.sophos.com/en-us',
+    sourceUrl: 'https://www.sophos.com/en-us'
+  },
+
+  {
+    id: 13,
+    title: 'Sophos ',
+    description: 'I use Sophos  a cybersecurity solution that provides advanced threat protection, including firewall, antivirus, encryption, and endpoint security, to safeguard networks, devices, and data from cyber threats ',
+    image: sophos,
+    liveUrl: 'https://www.sophos.com/en-us',
+    sourceUrl: 'https://www.sophos.com/en-us'
   },
 ];
 //skills 
