@@ -13,6 +13,7 @@ import splunk from './Images/splunk.jpeg'
 import wazuh from './Images/wazuh.png'
 import sophos from './Images/sophos.png'
 import manageengine from './Images/manageengine.png'
+import office from './Images/office'
 
 export const projects = [
   {
@@ -136,6 +137,15 @@ export const projects = [
     image: manageengine,
     liveUrl: 'https://www.manageengine.com/',
     sourceUrl: 'https://www.manageengine.com/'
+  },
+
+  {
+    id: 15,
+    title: 'office ',
+    description: 'Microsoft 365 (O365) is a cloud-based productivity suite that includes tools like Word, Excel, PowerPoint, Outlook, and cloud services like OneDrive and Teams, enabling collaboration, communication, and document management across organizations, while seamlessly integrating with Active Directory (AD) for asynchronous user management and access control ',
+    image: office,
+    liveUrl: 'https://www.office.com/',
+    sourceUrl: 'https://www.office.com/'
   },
 ];
 //skills 
