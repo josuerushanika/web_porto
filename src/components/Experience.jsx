@@ -10,7 +10,7 @@ const Experience = () => {
                     <FaBriefcase className=" text-4xl text-coding-color mb-2" />
 
                     </div>
-                <h2 className="text-3xl font-bold  font-title mb-10 text-white  text-center">Experience</h2>
+                <h2 className="text-3xl font-bold  font-title mb-10 text-white  text-center">EXPERIENCE</h2>
 
                         
                 </div>
