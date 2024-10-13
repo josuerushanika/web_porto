@@ -12,6 +12,7 @@ import cyber from './Images/cybersec.jpg'
 import splunk from './Images/splunk.jpeg'
 import wazuh from './Images/wazuh.png'
 import sophos from './Images/sophos.png'
+import manageengine from './Images/manageengine.png'
 
 export const projects = [
   {
@@ -129,12 +130,12 @@ export const projects = [
   },
 
   {
-    id: 13,
-    title: 'Sophos ',
-    description: 'I use Sophos  a cybersecurity solution that provides advanced threat protection, including firewall, antivirus, encryption, and endpoint security, to safeguard networks, devices, and data from cyber threats ',
-    image: sophos,
-    liveUrl: 'https://www.sophos.com/en-us',
-    sourceUrl: 'https://www.sophos.com/en-us'
+    id: 14,
+    title: 'manageengine ',
+    description: 'I use ManageEngine an integrated IT management software suite that provides tools for managing networks, servers, applications, endpoints, and security, helping organizations optimize their IT operations and improve efficiency. ',
+    image: manageengine,
+    liveUrl: 'https://www.manageengine.com/',
+    sourceUrl: 'https://www.manageengine.com/'
   },
 ];
 //skills 
