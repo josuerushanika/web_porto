@@ -30,7 +30,7 @@ const Experience = () => {
                         </span>
                       </h3>
                       <p className="mt-1  text-sm">August 2021 - Present</p>
-                      <ul className="list-disc list-inside mt-3  text-base list-exp md:text-base/8">
+                      {/* <ul className="list-disc list-inside mt-3  text-base list-exp md:text-base/8">
                         <li>
                           Developed custom web solutions using a variety of
                           programming languages and frameworks
@@ -81,6 +81,19 @@ const Experience = () => {
                           and implementation of IoT projects, such as GPS
                           solutions, SQL Server database maintenance.
                         </p>
+                      </ul> */}
+
+                      <ul className="list-disc list-inside mt-3  text-base list-exp md:text-base/8">
+                        Developed custom web solutions and dynamic websites
+                        using various programming languages and frameworks,
+                        enhancing client online presence. Integrated APIs,
+                        optimized website performance, and deployed projects on
+                        Netlify. Managed Windows, Linux servers, VMware ESXi,
+                        Cisco Meraki, Mikrotik network devices, VPNs, and
+                        cybersecurity tools. Conducted penetration testing,
+                        IDS/IPS configuration, and SIEM management. Involved in
+                        web development, network security, and IoT projects,
+                        including GPS solutions and SQL Server maintenance.
                       </ul>
                     </div>
                   </div>
@@ -98,7 +111,7 @@ const Experience = () => {
                         </span>
                       </h3>
                       <p className="mt-1 text-base">January2021 - May 2021</p>
-                      <ul className="list-disc list-inside mt-3  text-base md:text-base/7">
+                      {/* <ul className="list-disc list-inside mt-3  text-base md:text-base/7">
                         <li>
                           Configuration of CISCO equipment, PBX phone
                           systems,Maintain server hardware and address technical
@@ -142,6 +155,19 @@ const Experience = () => {
                           Implemented custom web solutions and applications
                           using HTML, CSS, JavaScript, React,SQL,Ruby on Rails.
                         </li>
+                      </ul> */}
+                      <ul className="list-disc list-inside mt-3  text-base md:text-base/7">
+                        Configured Cisco equipment, PBX systems, and server
+                        hardware. Installed Nanostations, Rocket antennas,
+                        AirFiber, Mikrotik, routers, switches (Cisco, Huawei,
+                        D-Link, TP-Link), and GSM/GPRS systems. Provided
+                        technical support and collaborated with teams. Managed
+                        Windows and Linux servers, Active Directory, DHCP,
+                        firewalls, and VPNs. Installed VOIP telephony systems
+                        and conducted vulnerability assessments, penetration
+                        testing, and cybersecurity management. Designed and
+                        maintained responsive websites using HTML, CSS,
+                        JavaScript, React, SQL, and Ruby on Rails.
                       </ul>
                     </div>
                   </div>
