@@ -142,7 +142,7 @@ export const projects = [
   {
     id: 15,
     title: 'office ',
-    description: 'Microsoft 365 (O365) is a cloud-based productivity suite that includes tools like Word, Excel, PowerPoint, Outlook, and cloud services like OneDrive and Teams, enabling collaboration, communication, and document management across organizations, while seamlessly integrating with Active Directory (AD) for asynchronous user management and access control ',
+    description: 'I use Microsoft 365 (O365) is a cloud-based productivity suite that includes tools like Word, Excel, PowerPoint, Outlook, and cloud services like OneDrive and Teams, enabling collaboration, communication, and document management across organizations, while seamlessly integrating with Active Directory (AD) for asynchronous user management and access control ',
     image: office,
     liveUrl: 'https://www.office.com/',
     sourceUrl: 'https://www.office.com/'
