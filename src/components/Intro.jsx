@@ -27,7 +27,7 @@ function Intro() {
               1000,
               ' Network Engineer',
               1000,
-              ' Cyber Security Specialist',
+              ' Cyber Security & Offensive Security',
               1000,
             ]}
             wrapper="span"

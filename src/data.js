@@ -9,6 +9,7 @@ import geomap from './Images/geomap.jpg'
 import ccna from './Images/ccna.jpg'
 import gns3 from './Images/gns3.jpg'
 import cyber from './Images/cybersec.jpg'
+import splunk from './Images/splunk.jpeg'
 
 export const projects = [
   {
@@ -96,6 +97,24 @@ export const projects = [
     title: ' Cyber ',
     description: ' I am a Cybersecurity consultant Expert who advises on and implements measures to protect digital systems and data from security threats.',
     image: cyber,
+  },
+
+  {
+    id: 11,
+    title: ' Splunk',
+    description: 'I use Splunk  a powerful platform for searching, monitoring, and analyzing machine-generated data in real-time, helping organizations to gain insights, detect security threats, and improve operational efficiency ',
+    image: splunk,
+    liveUrl: 'https://github.com/josuerushanika/Splunk-Tools',
+    sourceUrl: 'https://www.splunk.com/'
+  },
+
+  {
+    id: 11,
+    title: ' Splunk',
+    description: 'I use Splunk  a powerful platform for searching, monitoring, and analyzing machine-generated data in real-time, helping organizations to gain insights, detect security threats, and improve operational efficiency ',
+    image: splunk,
+    liveUrl: 'https://github.com/josuerushanika/Splunk-Tools',
+    sourceUrl: 'https://www.splunk.com/'
   },
 ];
 //skills 
