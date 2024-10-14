@@ -17,6 +17,7 @@ import office from './Images/office'
 import traccar from './Images/gps.png'
 import doctor from './Images/doctor.jpg'
 import script from './Images/script.png'
+import website from './Images/website.png'
 
 export const projects = [
   {
@@ -29,6 +30,16 @@ export const projects = [
     sourceUrl: 'https://github.com/josuerushanika/Rwanda-Conference'
   },
   {
+    id: 2,
+    title: 'WEB SITE',
+    description: 'Web site is designed using single page application (SPA) model and written in React(Vite) looking at a Figma Design.',
+    image: website,
+    tags: ['JavaScript', 'Webpack', 'Html', 'Css'],
+    liveUrl: 'https://websiteforom.netlify.app/',
+    sourceUrl: 'https://github.com/josuerushanika/web-site',
+  },
+
+   {
     id: 2,
     title: 'Movies App',
     description: 'Movie app is a website that shows the different lists of movies depending on a chosen category  and gives you the ability to add a like,and the number of ,likes  ,a comment , reserve a movie , and add a comment for a selected movie.Built Using API and Javascript Webpack.and HTML CSS',
