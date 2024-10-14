@@ -82,29 +82,39 @@ export const projects = [
     sourceUrl: 'https://github.com/josuerushanika/Geo_map_call_app'
   },
 
-  {
+   {
     id: 8,
+    title: 'GPS Tracking System',
+    description: ' Traccar is used to monitor and manage the real-time location of vehicles or assets, enhancing fleet management, logistics, and employee safety by providing detailed tracking data, alerts, and reporting through a centralized platform',
+    image: traccar,
+    tags: ['HTML', 'Css ', 'JavaScript'],
+    liveUrl: 'https://github.com/josuerushanika/Geo_map_call_app',
+    sourceUrl: 'https://github.com/josuerushanika/Geo_map_call_app'
+  },
+
+  {
+    id: 9,
     title: ' CCNA ',
     description: 'CCNA (Cisco Certified Network Associate) is a certification from Cisco, the world most famous company for manufacturing and selling networking equipment. ',
     image: ccna,
   },
 
   {
-    id: 9,
+    id: 10,
     title: ' GNS3 ',
     description: 'Simulation of An enterprise network(In GNS3) consists of physical and virtual networks and protocols that serve the dual purpose of connecting all users and systems on a local area network (LAN) to applications in the data center and cloud as well as facilitating access to network data and analytics. ',
     image: gns3,
   },
 
   {
-    id: 10,
+    id: 11,
     title: ' Cyber ',
     description: ' I am a Cybersecurity consultant Expert who advises on and implements measures to protect digital systems and data from security threats.',
     image: cyber,
   },
 
   {
-    id: 11,
+    id: 12,
     title: ' Splunk',
     description: 'I use Splunk  a powerful platform for searching, monitoring, and analyzing machine-generated data in real-time, helping organizations to gain insights, detect security threats, and improve operational efficiency ',
     image: splunk,
@@ -113,7 +123,7 @@ export const projects = [
   },
 
   {
-    id: 12,
+    id: 13,
     title: 'Wazuh ',
     description: 'I use Wazuh an open-source security platform that provides threat detection, visibility, compliance monitoring, and incident response through log analysis, intrusion detection, and vulnerability assessment ',
     image: wazuh,
@@ -122,7 +132,7 @@ export const projects = [
   },
 
   {
-    id: 13,
+    id: 14,
     title: 'Sophos ',
     description: 'I use Sophos  a cybersecurity solution that provides advanced threat protection, including firewall, antivirus, encryption, and endpoint security, to safeguard networks, devices, and data from cyber threats ',
     image: sophos,
@@ -131,7 +141,7 @@ export const projects = [
   },
 
   {
-    id: 14,
+    id: 15,
     title: 'manageengine ',
     description: 'I use ManageEngine an integrated IT management software suite that provides tools for managing networks, servers, applications, endpoints, and security, helping organizations optimize their IT operations and improve efficiency. ',
     image: manageengine,
@@ -140,7 +150,7 @@ export const projects = [
   },
 
   {
-    id: 15,
+    id: 16,
     title: 'office ',
     description: 'I use Microsoft 365 (O365) is a cloud-based productivity suite that includes tools like Word, Excel, PowerPoint, Outlook, and cloud services like OneDrive and Teams, enabling collaboration, communication, and document management across organizations, while seamlessly integrating with Active Directory (AD) for asynchronous user management and access control ',
     image: office,
