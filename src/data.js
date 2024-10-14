@@ -18,6 +18,7 @@ import traccar from './Images/gps.png'
 import doctor from './Images/doctor.jpg'
 import script from './Images/script.png'
 import website from './Images/website.png'
+import buget from './Images/buget.png'
 
 export const projects = [
   {
@@ -37,6 +38,16 @@ export const projects = [
     tags: ['JavaScript', 'Webpack', 'Html', 'Css'],
     liveUrl: 'https://websiteforom.netlify.app/',
     sourceUrl: 'https://github.com/josuerushanika/web-site',
+  },
+
+   {
+    id: 2,
+    title: 'budget-app',
+    description: 'A mobile web application where you can manage your budget. You have a list of transactions associated with a category, so that you can see how much money you spent and on what..',
+    image: buget,
+    tags: ['JavaScript', 'Webpack', 'Html', 'Css'],
+    liveUrl: 'https://rushanika.onrender.com/',
+    sourceUrl: 'https://github.com/josuerushanika/budget-app',
   },
 
    {
