@@ -16,6 +16,7 @@ import manageengine from './Images/manageengine.png'
 import office from './Images/office'
 import traccar from './Images/gps.png'
 import doctor from './Images/doctor.jpg'
+import script from './Images/script.png'
 
 export const projects = [
   {
@@ -175,8 +176,8 @@ export const projects = [
     title: 'script ',
     description: 'Python Scripts for Network Engineers is a collection of scripts that I use every day as a network engineer to make my life easier ',
     image: script,
-    liveUrl: 'https://www.office.com/',
-    sourceUrl: 'https://www.office.com/'
+    liveUrl: 'https://github.com/josuerushanika/python-scripts-for-network-engineers?tab=readme-ov-file',
+    sourceUrl: 'https://github.com/josuerushanika/python-scripts-for-network-engineers?tab=readme-ov-file',
   },
 ];
 //skills 
