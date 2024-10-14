@@ -1,26 +1,31 @@
 {
   "files": {
     "main.css": "/static/css/main.22a98751.css",
-    "main.js": "/static/js/main.892619da.js",
+    "main.js": "/static/js/main.f589ccd7.js",
+    "static/media/gps.png": "/static/media/gps.ada9e6a3668ed4caa96d.png",
+    "static/media/website.png": "/static/media/website.5db9152110aaa9abbf74.png",
     "static/media/calc-app.gif": "/static/media/calc-app.d14e29c23ae773d37ef7.gif",
     "static/media/techweb.png": "/static/media/techweb.d3af3ef93c65932b1c92.png",
     "static/media/cybersec.jpg": "/static/media/cybersec.4e0ac2a7c6956df9c1aa.jpg",
+    "static/media/buget.png": "/static/media/buget.752a83093ca5ca9e0124.png",
     "static/media/covid.jpg": "/static/media/covid.40d7040a16db78d85c23.jpg",
     "static/media/geomap.jpg": "/static/media/geomap.18df418d18e75042b873.jpg",
     "static/media/movie_app.jpeg": "/static/media/movie_app.3e88874ed711b8e9c345.jpeg",
     "static/media/josue.jpg": "/static/media/josue.6cb1b682ea51260e7574.jpg",
     "static/media/space_traveler.jpeg": "/static/media/space_traveler.6fe2139a20948357db67.jpeg",
     "static/media/gns3.jpg": "/static/media/gns3.5f7516e19fae079323c4.jpg",
+    "static/media/script.png": "/static/media/script.8476abb17cdef4c496ca.png",
     "static/media/ccna.jpg": "/static/media/ccna.04b22931c0ce694b50cd.jpg",
     "static/media/to_do_list.png": "/static/media/to_do_list.822edabf172a53558ae4.png",
     "static/media/programmer.svg": "/static/media/programmer.4477c31769182ce5492da4c68806d1bd.svg",
+    "static/media/doctor.jpg": "/static/media/doctor.22b3348a552051e474ff.jpg",
     "static/media/office": "/static/media/office.1cef1fd52c04bd138e9f",
     "index.html": "/index.html",
     "main.22a98751.css.map": "/static/css/main.22a98751.css.map",
-    "main.892619da.js.map": "/static/js/main.892619da.js.map"
+    "main.f589ccd7.js.map": "/static/js/main.f589ccd7.js.map"
   },
   "entrypoints": [
     "static/css/main.22a98751.css",
-    "static/js/main.892619da.js"
+    "static/js/main.f589ccd7.js"
   ]
 }
