@@ -19,6 +19,7 @@ import doctor from './Images/doctor.jpg'
 import script from './Images/script.png'
 import website from './Images/website.png'
 import buget from './Images/buget.png'
+import nessus from './Images/nessus.png'
 
 export const projects = [
   {
@@ -200,6 +201,15 @@ export const projects = [
     image: script,
     liveUrl: 'https://github.com/josuerushanika/python-scripts-for-network-engineers?tab=readme-ov-file',
     sourceUrl: 'https://github.com/josuerushanika/python-scripts-for-network-engineers?tab=readme-ov-file',
+  },
+
+  {
+    id: 21,
+    title: 'nessus ',
+    description: 'I use Nessus  a widely used vulnerability assessment tool that scans networks, systems, and applications for security vulnerabilities, helping cybersecurity professionals identify and address potential threats',
+    image: nessus,
+    liveUrl: 'https://fr.tenable.com/products/nessus',
+    sourceUrl: 'https://github.com/josuerushanika/VulnerabilityManagement',
   },
 ];
 //skills 
