@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.22a98751.css",
-    "main.js": "/static/js/main.f589ccd7.js",
+    "main.css": "/static/css/main.81e348ba.css",
+    "main.js": "/static/js/main.b06612df.js",
     "static/media/gps.png": "/static/media/gps.ada9e6a3668ed4caa96d.png",
     "static/media/website.png": "/static/media/website.5db9152110aaa9abbf74.png",
     "static/media/calc-app.gif": "/static/media/calc-app.d14e29c23ae773d37ef7.gif",
@@ -16,16 +16,17 @@
     "static/media/gns3.jpg": "/static/media/gns3.5f7516e19fae079323c4.jpg",
     "static/media/script.png": "/static/media/script.8476abb17cdef4c496ca.png",
     "static/media/ccna.jpg": "/static/media/ccna.04b22931c0ce694b50cd.jpg",
+    "static/media/nessus.png": "/static/media/nessus.95270cd33c84418e3995.png",
     "static/media/to_do_list.png": "/static/media/to_do_list.822edabf172a53558ae4.png",
     "static/media/programmer.svg": "/static/media/programmer.4477c31769182ce5492da4c68806d1bd.svg",
     "static/media/doctor.jpg": "/static/media/doctor.22b3348a552051e474ff.jpg",
     "static/media/office": "/static/media/office.1cef1fd52c04bd138e9f",
     "index.html": "/index.html",
-    "main.22a98751.css.map": "/static/css/main.22a98751.css.map",
-    "main.f589ccd7.js.map": "/static/js/main.f589ccd7.js.map"
+    "main.81e348ba.css.map": "/static/css/main.81e348ba.css.map",
+    "main.b06612df.js.map": "/static/js/main.b06612df.js.map"
   },
   "entrypoints": [
-    "static/css/main.22a98751.css",
-    "static/js/main.f589ccd7.js"
+    "static/css/main.81e348ba.css",
+    "static/js/main.b06612df.js"
   ]
 }
