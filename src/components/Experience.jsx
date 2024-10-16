@@ -30,58 +30,6 @@ const Experience = () => {
                         </span>
                       </h3>
                       <p className="mt-1  text-sm">August 2021 - Present</p>
-                      {/* <ul className="list-disc list-inside mt-3  text-base list-exp md:text-base/8">
-                        <li>
-                          Developed custom web solutions using a variety of
-                          programming languages and frameworks
-                        </li>
-                        <li>
-                          Created static and dynamic websites for clients that
-                          received positive feedback, improved their online
-                          presence.
-                        </li>
-                        <li>
-                          Fixed bugs and optimized website performance,
-                          resulting in faster loading times and better user
-                          experience.
-                        </li>
-                        <li>
-                          Integrated various API services, such as GitHub and
-                          others API, to display project details.
-                        </li>
-                        <li>
-                          Deployed and maintained websites on Netlify, ensuring
-                          high availability and fast loading times.
-                        </li>
-                        <li>
-                          {" "}
-                          Managing servers windows 2012r2, 2016 and Lunix (DELL)
-                          Active Directory, DHCP,Firewall, VOIP(Server,ISSABEL
-                          server), and Print server.
-                        </li>
-                        <li>
-                          Managing network devices Cisco
-                          routers,Mikrotik,TP-Link,D-Link, firewalls,Cisco
-                          switches and VPN connections with Public IP and Remote
-                          Conntection.
-                        </li>
-                        <p>
-                          Responsible for threat intelligence and cybersecurity,
-                          using Cisco Talos to identify and analyze threats.
-                          Management of firewalls and routers (Cisco Meraki,
-                          Sophos, Ubiquiti) as well as Windows Server 2022,
-                          Linux servers, O365, Azure, and Active Directory.
-                          Implementation and maintenance of intrusion detection
-                          and prevention systems (IDS/IPS), and management of
-                          virtualized environments with VM ESXi. Conducting
-                          penetration tests with Kali Linux on web applications,
-                          wireless networks, SQL injection, and APIs.
-                          Configuring of SIEM(Splunk Wazuh) and I@M.
-                          Participation in web development and network security,
-                          and implementation of IoT projects, such as GPS
-                          solutions, SQL Server database maintenance.
-                        </p>
-                      </ul> */}
 
                       <ul className="list-disc list-inside mt-3  text-base list-exp md:text-base/8">
                         Developed custom web solutions and dynamic websites
@@ -111,51 +59,7 @@ const Experience = () => {
                         </span>
                       </h3>
                       <p className="mt-1 text-base">January2021 - May 2021</p>
-                      {/* <ul className="list-disc list-inside mt-3  text-base md:text-base/7">
-                        <li>
-                          Configuration of CISCO equipment, PBX phone
-                          systems,Maintain server hardware and address technical
-                          problems.
-                        </li>
-                        <li>
-                          Installation and configuration of Nanostation ,Rocket
-                          antennaM5,AirFiber,Mikrotik,……
-                        </li>
-                        <li>
-                          Collaborated with other developers and designers on
-                          project teams
-                        </li>
-                        <li>
-                          Installation of Router and switch configuration
-                          CISCO,Huawei,MIKROTIK,D-LINK,TP-,LINK,VSat,.{" "}
-                        </li>
-                        <li>Provided technical support to clients as needed</li>
-                        <li>
-                          Installation and configuration DELL Server Windows
-                          server 2012 r2
-                        </li>
-                        <li>
-                          nstallation of VOIP Telephony, CME (Call Manager
-                          Express) and Integration with PSTN network.
-                        </li>
-                        <li>Created websites with great designs</li>
-                        <li>
-                          Conducted vulnerability assessments and penetration
-                          testing. · Developed and implemented cybersecurity
-                          policies and procedures. · Managed and monitored
-                          network security infrastructure, and access control
-                          systems · Managing servers windows 2012r2, 2016 and
-                          Lunix (DELL) Active Directory, DHCP,Firewall ·
-                          Managing network devices Cisco
-                          routers,Mikrotik,TP-Link,D-Link, firewalls,Cisco
-                          switches and VPN connections with Public IP and Remote
-                          Conntection. · Collaborated with cross-functional
-                          teams to select security technologies. · Designed,
-                          developed, and maintained responsive websites.·
-                          Implemented custom web solutions and applications
-                          using HTML, CSS, JavaScript, React,SQL,Ruby on Rails.
-                        </li>
-                      </ul> */}
+                   
                       <ul className="list-disc list-inside mt-3  text-base md:text-base/7">
                         Configured Cisco equipment, PBX systems, and server
                         hardware. Installed Nanostations, Rocket antennas,

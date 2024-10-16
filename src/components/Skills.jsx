@@ -12,7 +12,7 @@ function Skills() {
                     </h1>
                     <p className="md:text-2xl leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto">
                         My toolbox includes <span className="text-coding-color">React</span> , <span className="text-coding-color">Redux</span> ,
-                        and <span className="text-coding-color">MySQL,PostgreSQL,Ruby on Rails</span> for creating dynamic web applications. I also have a keen eye for <span className="text-coding-color">UI/UX</span> design, and experience with <span className="text-coding-color">Git</span> version control to keep projects on track. Let's build something <span className="text-coding-color" >great</span> together!
+                        and <span className="text-coding-color">MySQL,PostgreSQL,Ruby on Rails, CyberSecurity</span> for creating dynamic web applications. I also have a keen eye for <span className="text-coding-color">UI/UX</span> design, and experience with <span className="text-coding-color">Git</span> version control to keep projects on track. Let's build something <span className="text-coding-color" >great</span> together!
                     </p>
                 </div>
                 <div className="flex flex-wrap lg:w-4/5 sm:mx-auto sm:mb-2 -mx-2">
