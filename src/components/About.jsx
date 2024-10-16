@@ -29,7 +29,7 @@ function About() {
             administration, network configuration, and troubleshooting. I am
             currently working on a few personal projects, I am looking for a
             full time job I love to contribute to{" "}
-            <span className="text-coding-color"> open source projects</span> .
+            <span className="text-coding-color"> open source projects</span>
           </p>
         </div>
         <div className="personal-image py-7 ">
